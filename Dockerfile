@@ -1,7 +1,7 @@
 FROM blackamda/queenamdi:public
 
-RUN git clone https://github.com/BlackAmda/QueenAmdi /root/QueenAmdi
-WORKDIR /root/QueenAmdi/
+RUN git clone https://github.com/Dark-Maxv1/V4 /root/V4
+WORKDIR /root/V4/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
 RUN yarn install --no-audit
