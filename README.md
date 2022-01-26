@@ -1,6 +1,7 @@
 
 <div align="center">
-  <h1>⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0 </h1>
+  <h1>⎝🛡️ ALPHA 🛡️⎠ 
+	  WhatsApp User Bot v4.0.0 </h1>
 </div>
 
 <p align="center">
