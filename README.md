@@ -130,19 +130,7 @@ wa.me/+94704029407
 CREATED BY Achiya
 ```
 
-<p align="center">
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademar
-
-
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Maxv1/ALPHA-Installer)
-
-## Trex Team
+	## Trex Team
 
 <table>
 										<tbody>
@@ -172,6 +160,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
 									</table>
 
 
+	  
+	  
+<p align="center">
+## License
+This project is protected by `GNU General Public Licence v3.0` license.
 
-
-
+### Disclaimer
+`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademar
