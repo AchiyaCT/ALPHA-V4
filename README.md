@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ WhatsApp User Bot V3.0.0.8 </h1>
+  <h1>⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0 </h1>
 </div>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
   
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/⎝🛡️ ALPHA 🛡️⎠-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
     </p>
              
 <p align="center">
@@ -70,7 +70,22 @@ Simple Method
     <p align="center">
     </div>
    <br> 
-   
+  
+
+[![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
+
+<div align="center">
+  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ OFFICIAL VIDEO</h1>
+  <p>📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
+</div>
+
+    
+### ⚠️ Warning! 
+```
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
+CREATED BY Achiya
+```
+
 ```
 ඔයත් ඔන්ලයින් ස්ටෝර් එකක් ඔන්ලයින් බිස්නස් එකක් ඔයාගෙම කියලා ගෲප් එකක් කරනවද ?
 
@@ -115,22 +130,7 @@ HIRUSHA RUKSHAN
 wa.me/+94704029407
 ``` 
     
-
-[![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
-
-<div align="center">
-  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ OFFICIAL VIDEO</h1>
-  <p>📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
-</div>
-
-    
-### ⚠️ Warning! 
-```
-කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY Achiya
-```
-
-	## Trex Team
+	  
 
 <table>
 										<tbody>
