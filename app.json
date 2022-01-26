@@ -1,12 +1,12 @@
 {
     "name": "⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0 ",
-    "description": "World Best Whatsapp Bot",
-    "logo": "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg",
-    "keywords": ["Trex", "T-REX"],
+    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
+    "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
+    "keywords": ["Achi Bro lk | PG", "ALPHA"],
     "stack": "container",
     "env": {
       "ALPHA_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@TRexWa/T-REX-QR-SESSION .",
+            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1.",
             "required": true
         },
         "BUTTON_CMD": {
@@ -50,7 +50,7 @@
         "WELCOME": {
             "description": "Welcome message type pp or gif",
             "required": true,
-            "value": "pp"
+            "value": "gif"
         },
         "AUTO_BIO": {
             "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
@@ -199,11 +199,7 @@
             "description": "REPLY ANYONE MSG FOR VOICE ( THIS FEATURE coming soon )",
             "required": true,
             "value": "false"
-        },
-        "VOICE_CHAT_TYPE": {
-            "description": "AUTO VOICE REPLY VOICE SOUND ( baby , boy , girl ) COMING SOON..",
-            "required": true,
-            "value": "girl"
+
         },
         "WELCOME_LOGO": {
             "description": "To change the welcome message video, enter your video link below",
@@ -262,7 +258,7 @@
         "CAPTION": {
             "description": "LOGO MAKER CAPTION",
             "required": true,
-            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 Ｔ-ＲＥＸ │"
+            "value": "   ▷ ᴹᴬᴰᴱ 🄱🅈 ⎝🛡️ ALPHA 🛡️⎠│"
         },
         "COFFEEHOUSE_API_KEY": {
             "description": "Give it up. We give you this.",
