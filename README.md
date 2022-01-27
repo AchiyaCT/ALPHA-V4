@@ -1,140 +1,142 @@
 
-<div align="center">
-  <h1>⎝🛡️ ALPHA 🛡️⎠ 
-	  WhatsApp User Bot v4.0.0 </h1>
-</div>
 
-<p align="center">
+<div align="center">		
+<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
+</p>
+<div align="center">
+  <img src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="300" height="300">
+	<div align="center">
 <img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
 </p>
 
-<div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/cd6032c65c27e0510ddad.jpg" width="400" height="400"/>
-  
-  <p align="center">
-<img src= "https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966"/>
-</p>
-  
-  <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/⎝🛡️ ALPHA 🛡️⎠-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-    </p>
-             
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77676&center=true&vCenter=true&lines=Welcome+to+alpha+bot+GitHub+page">
-</p>
-<p align="center">
-</p>
-  <p align="center">
-<a href="https://github.com/AchiyaCT/ALPHA"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 Achiya-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
-</p>
+  <h1>⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0</h1>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AchiyaCT"> Achiya</a> This project may be free
-    <br
-       | © |
-        owner |
-    <br> 
+    World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot
+    <br>
+        <a href="https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE">Whatsapp Group</a> |
+        <a href="https://www.youtube.com/c/AchiBrolkPG">Youtube Channel</a>
+    <br>
 </p>
 
 ----
-
-  <p align="center">
-  <a href="https://github.com/AchiyaCT?tab=repositories">
-    <img src="https://img.shields.io/github/repo-size/AchiyaCT/ALPHA?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/AchiyaCT/followers"><img title="Followers" src="https://img.shields.io/github/followers/AchiyaCT?color=blue&style=flat-square"></a>
-<a href="https://github.com/AchiyaCT/ALPHA/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/AchiyaCT/ALPHA?color=blue&style=flat-square"></a>
-<a href="https://github.com/AchiyaCT/ALPHA/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AchiyaCT/ALPHA?color=blue&style=flat-square"></a>
-<a href="https://github.com/AchiyaCT/ALPHA/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AchiyaCT/ALPHA?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
-  
-
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HnRnoj6HBrK32LW0EG3JxE)
-  <div align="center">
-       
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AchiyaCT&repo=ALPHA&theme=nightowl)](https://github.com/AchiyaCT/ALPHA)
-  </div>
-    
-## Setup
 <div align="center">
-  
-Simple Method
-  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Maxv1/ALPHA-Installer)
-    <p align="center">
-    </div>
-   <br> 
-  
-
-[![TRAILER](https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg)](https://www.youtube.com/watch?v=9kJlE9RYKeo)
-
-<div align="center">
-  <h1>❰ 🇱🇰🔰✥▬ALPHA▬✥🔰🇱🇰 ❱ OFFICIAL VIDEO</h1>
-  <p>📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
+	<h1>Visit our official website to install the Whatsapp Bot</h1>
+	<a href="https://duanf0484.wixsite.com/achi-bro-lk/alpha-bot-service">
+<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
 </div>
 
-    
-### ⚠️ Warning! 
-```
-කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY Achiya
-```
+----
+	
+### QR CODE
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTBOT/Alpha-Qr?v=1)
 
-```
-ඔයත් ඔන්ලයින් ස්ටෝර් එකක් ඔන්ලයින් බිස්නස් එකක් ඔයාගෙම කියලා ගෲප් එකක් කරනවද ?
+### Deploy Page
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dark-Maxv1/ALPHA-Installer)
+</div>
 
-කස්ටර්මර්ස්ලා අහන අහන් ප්‍රශ්න වලට උත්තර දීලා එපා වෙනවද ?
+----
 
-සමහර විට ඕර්ඩර්ස් මිස් වෙනවද ?
-
-ඔබ දුර ගමන්ක් යන්නේද ? එදින ඔබගේ කස්ටර්මර්ස්ලා සමග කතා කිරීමට නොහැකිද ඒනම් ඔයා බලන් ඉද්දි ඔටෝම මැසේජ් යවමුද ?
-
-ටීම් මෙම්බර්ස්ලාට මැසේජ් ටයිප් කරලා එපා වෙනවද ?
-
-ඒනම් මෙන්න විසදුම 🤭
-
-වට්සැප් හෝ ටෙලිග්‍රෑම් ඔයාට ඕනෑම ආකාරයේ රොබෝවරයෙක් සදාදෙන්න PEARL TEAM සූදානම් 😍
-
-රොබෝවරයෙකු යනු කවෘන්ද ?
-
-රොබෝවරයෙකු යනු සියලුම දේ ඔටෝමේට්  ක්‍රියා කරන ලෙස සාදා ඇති පිලියමකි මෙයින් ඔබේ වැඩ පහසු කර ගත හැකිය.
-
-වචන 1000 ක ජේදයක් උවත් අකුරු තුනකින් යැවිය හැකිය 😍
-
-ඔබ මෙම බොට් මිලදී ගත් පසු LIFE TIME ඔබට ලබා ගත හැකි වීම 😍
-
-ඔබගේ සියලුම වැඩ පහසු කරගැනීමට හැකි වීම 😍
-
-ඔබගේ කාලය ඉතිර කරගැනීමේ හැකියාව 😍
-
-දැන් ඔබල PEARL වෙතින් ලබා ගත හැක 
-
-😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍
-
-වැඩි දුර විස්තර සදහා 🥺
-
-WHATSAPP 
-
-KASUN RAVIHARA
-
-wa.me/+94716184907
-
-HIRUSHA RUKSHAN
-
-wa.me/+94704029407
-``` 
-  
-	  
 <p align="center">
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
+  <a href="https://github.com/Dark-Maxv1/ALPHA-Installer">
+    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
+  </a>
+  <a href="https://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
+    
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/BlackAmda/QueenAmdi">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
+    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
+    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/BlackAmda/QueenAmdi">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
+
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://wa.me/94757405652">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Alpha%20Achi%20Fernando-purple&style=plastic">
+
+  </a>
+</p>
+ 
+```
+Alpha bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+The user is responsible for all possible consequences of misuse.
+This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
+Additionally, it enables plug-in support for users.
+Install their own plugins to the original software and use as they please.
+Usage is entirely the responsibility of the user. The operating system is not responsible.
+HAVE A FUN!
+```
+
+
+## 📛 WATCH How To Make Sinhala WhatsApp Bot With Full Tutorial || Tutorial 02 || Alpha Wa Bot VIDEO CLICK This Post📛
+<div>
+	<a href="https://www.youtube.com/watch?v=9kJlE9RYKeo">
+<img src="https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg" width="200"></br></a>
+</div>
+
+
+## T-REX Team Offcial
+
+<table>
+										<tbody>
+											<tr>
+												<td><a href="https://duanf0484.wixsite.com/achi-bro-lk"><img src="https://telegra.ph/file/13fb228cedfabbd2224ac.jpg" width="200" height="200" alt="Achi Fernando"></a></td>
+												<td><a href="https://github.com/Dark-Knight-Hiruwa"><img src="https://telegra.ph/file/696ea20f2c93ad64aa239.jpg" width="200" height="200" alt="Hiruwa"></a></td>
+												<td><a href="https://www.youtube.com/c/PearlYT-JRVSW"><img src="https://telegra.ph/file/ae66d42d972430f1d53c9.jpg" width="200" height="200" alt="Kasun"></a></td>
+											</tr>
+										</tbody>
+									</table>
+                  <table>
+										<tbody>
+											<tr>
+												<td><a href="https://wa.me/94717954374"><img src="https://telegra.ph/file/022fc0c8a33f74ca448c5.jpg" width="200" height="200" alt="Sanjula"></a></td>
+												<td><a href="https://www.youtube.com/c/TechDeiyo"><img src="https://telegra.ph/file/0176e25255e97de0bdc4b.jpg" width="200" height="200" alt="Sanjaana"></a></td>
+                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://telegra.ph/file/868958cca51f2bd68d5ac.jpg" width="200" height="200" alt="Thinura"></a></td>
+											</tr>
+									</table>
+                  <table>
+										<tbody>
+											<tr>
+												<td><a href="https://www.youtube.com/channel/UCAafO2_JLzGHl_Le7BTkY3A/featured"><img src="https://telegra.ph/file/81559ab4dce492370645c.jpg" width="200" height="200" alt="DM bro"></a></td>
+												<td><a href="https://wa.me/94785972996"><img src="https://telegra.ph/file/a1ca412b0b92cc45aaa6a.jpg" width="200" height="200" alt="Pasiya"></a></td>
+												<td><a href="https://wa.me/94703164788"><img src="https://telegra.ph/file/0953550b78a8b1861346b.jpg" width="200" height="200" alt="paraveen"></a></td>
+											</tr>
+										</tbody>
+									</table>
+
+### License
+This project is protected by the `GNU General Public License v3.0.`
+Do not edit copyright messages!
 
 ### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademar
+`WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
