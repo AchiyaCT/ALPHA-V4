@@ -77,63 +77,13 @@
             "required": true,
             "value": "No Rules"
         },
-        "GROUP_NAME_1": {
-            "description": "Set You 1 Group Name.",
+        "GROUP_NAME": {
+            "description": "Set You  Group Name.",
             "required": false,
             "value": "default"
         },
-        "GROUP_LINK_1": {
-            "description": "Set You 1 Group link.",
-            "required": false,
-            "value": "default"
-        },
-        "WARN_MSG_1": {
-            "description": "Set You 1 Group warn.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_NAME_2": {
-            "description": "Set You 2 Group Name.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_LINK_2": {
-            "description": "Set You 2 Group link.",
-            "required": false,
-            "value": "default"
-        },
-        "WARN_MSG_2": {
-            "description": "Set You 2 Group warn.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_NAME_3": {
-            "description": "Set You 3 Group Name.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_LINK_3": {
-            "description": "Set You 3 Group link.",
-            "required": false,
-            "value": "default"
-        },
-        "WARN_MSG_3": {
-            "description": "Set You 3 Group warn.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_NAME_4": {
-            "description": "Set You 4 Group Name.",
-            "required": false,
-            "value": "default"
-        },
-        "GROUP_LINK_4": {
-            "description": "Set You 4 Group link.",
-            "required": false,
-            "value": "default"
-        },
-        "WARN_MSG_4": {
-            "description": "Set You 4 Group warn.",
+        "GROUP_LINK": {
+            "description": "Set You Group link.",
             "required": false,
             "value": "default"
         },
