@@ -82,11 +82,6 @@
             "required": false,
             "value": "default"
         },
-        "GROUP_LINK": {
-            "description": "Set You Group link.",
-            "required": false,
-            "value": "default"
-        },
         "CHAT_BOT": {
             "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and true to activate AI chat bot.",
             "required": true,
