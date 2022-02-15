@@ -78,7 +78,7 @@
             "value": "No Rules"
         },
         "GROUP_DETAILS": {
-            "description": "Set You  Group Name.",
+            "description": "Set You Group.",
             "required": false,
             "value": "default"
         },
