@@ -23,7 +23,7 @@
 	<a href="https://chat.whatsapp.com/KQRCEydZ4QwJ7JpKypx5gg">Whatsapp Tech Group</a> |
 	<a href="https://chat.whatsapp.com/BiRfTmouLQ2J7MaLdczOY5">Whatsapp Ehi Group</a> |
 	<a href="https://chat.whatsapp.com/GPUvBfhhz7OLZhckbGi8mj">Whatsapp knowledge Group</a> |
-	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a> |
+	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a>
     <br>
 </p>
 	
@@ -102,6 +102,15 @@ HAVE A FUN!
 	<a href="https://www.youtube.com/watch?v=9kJlE9RYKeo">
 <img src="https://telegra.ph/file/3e7b77ce00c3fb8900452.jpg" width="200"></br></a>
 </div>
+
+
+
+## 📛 HOW TO FIX DEPLOY ERROR IN HEROKU PAGE 💯🔥|| Tutorial 04 || Alpha WA Bot VIDEO CLICK This Post📛
+<div>
+	<a href="https://youtu.be/uAuIcxlGFKw">
+<img src="https://telegra.ph/file/76d724f5dec960374d486.jpg" width="200"></br></a>
+</div>
+
 
 
 ## ⎝🛡️ ALPHA 🛡️⎠ Team Offcial
