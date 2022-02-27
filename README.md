@@ -26,7 +26,6 @@
 	<a href="https://chat.whatsapp.com/GSijEqwPZBS4a3VzzlvKLM">Whatsapp Market Group</a> |
     <br>
 </p>
-----
 	
 ### QR CODE
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTONLINE/ALPHA-Qr-Session?v=1)
